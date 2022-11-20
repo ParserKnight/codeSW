@@ -1,0 +1,14 @@
+1157689399.691   1780 10.105.21.199 TCP_MISS/200 7084 GET http://uk.f250.mail.yahoo.com/favicon.ico badeyek DIRECT/217.12.10.96 image/x-icon
+1157689401.191   1804 10.105.21.199 TCP_MISS/200 4276 GET http://uk.f250.mail.yahoo.com/dc/fc? badeyek DIRECT/217.12.10.96 text/html
+1157689401.739   2047 10.105.21.199 TCP_MISS/200 1069 POST http://uk.f250.mail.yahoo.com/rss/Content/V3.0/getUserFeedData? badeyek DIRECT/217.12.10.96 text/xml
+1157689403.545      0 10.105.47.191 TCP_DENIED/407 1785 GET http://us.mcafee.com/apps/agent/en-us/agent5/chkalert.asp? - NONE/- text/html
+1157689403.895   2703 10.105.21.199 TCP_MISS/200 8685 POST http://uk.f250.mail.yahoo.com/ymws? badeyek DIRECT/217.12.10.96 text/xml
+1157689403.895   5998 10.105.21.199 TCP_MISS/200 54754 POST http://uk.f250.mail.yahoo.com/yab/cache/us/0VeaLg0_tcpu%5EA1tpSqCHA--? badeyek DIRECT/217.12.10.96 text/xml
+1157689405.160   1265 10.105.21.199 TCP_MISS/200 754 GET http://uk.f250.mail.yahoo.com/dc/blank.html? badeyek DIRECT/217.12.10.96 text/html
+1157689405.223   1323 10.105.21.199 TCP_MISS/302 273 GET http://ad.uk.doubleclick.net/ad/N2806.yahoo.com/B2005390;sz=25x25;ord=1157689011? badeyek DIRECT/209.62.178.181 -
+1157689405.254   3513 10.105.21.199 TCP_MISS/200 1726 GET http://ad.uk.doubleclick.net/adi/N3784.Yahoo.co.uk/B2018547;sz=300x250;click=http://uk.ard.yahoo.com/SIG=12qti6slh/M=200085264.201267393.202582050.200493719/D=ukmail/S=150558280:LREC/Y=UKIE/EXP=1157775411/A=200545354/R=0/*;ord=1157689011? badeyek DIRECT/209.62.178.181 text/html
+1157689406.722   1497 10.105.21.199 TCP_HIT/200 1359 GET http://eur.a1.yimg.com/eur.yimg.com/a/uk/any/sky/logo25x25.gif badeyek NONE/- image/gif
+1157689406.936   1682 10.105.21.199 TCP_HIT/200 539 GET http://m.uk.2mdn.net/viewad/1042493/4-paym_Yahoo_25x25.gif badeyek NONE/- image/gif
+1157689407.599    742 10.105.37.58 TCP_DENIED/407 1812 GET http://rms.adobe.com/read/0600/win_/ENU/read0600win_ENUadbe0000.xml - NONE/- text/html
+1157689407.864   2703 10.105.21.199 TCP_REFRESH_HIT/200 1640 GET http://eur.a1.yimg.com/eur.yimg.com/a/eu/any/alien3.gif badeyek DIRECT/213.160.98.160 image/gif
+1157689408.223   1502 10.105.21.199 TCP_REFRESH_HIT/200 1112 GET http://m.uk.2mdn.net/879366/flashwrite_1_2.js badeyek DIRECT/209.62.178.182 application/x-javascript
