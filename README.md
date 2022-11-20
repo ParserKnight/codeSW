@@ -15,7 +15,7 @@ virtualenv --python=python3 venv
 source ./venv/bin/activate
 pip3 install -r requirements.txt
 ```
-Script doesnt need any thid party library for execution, only pytest for testing.
+Script doesnt need any third party library for execution, only pytest for testing.
 
 ### Installing
 
@@ -37,14 +37,14 @@ docker run -t <image_name>
 ```
 You will have a stdout with results and further instructions to retrieve the .json result from the container.
 
-**Note: You will need to download and provide log file and name it: "access.log" and put it at the same level as script.py in order to dockerfile work.
+*Note: You will need to download and provide log file and name it: "access.log" and put it at the same level as script.py in order to dockerfile work.
 
 ## Considerations
 
 * Consideration for mflip: only client-ip was evaluated for mflip, code was made such as including target ip would be easy to add to computation.
 * Consideration for bytes: only response bytes sum, code was made such as including header bytes would be easy to add to computation.
 * Consideration for efip: only client-ip was evaluated for efip, code was made such as including target ip would be easy to add to computation.
-*
+
 ## Authors
 
 * **Javier Moubayyed** - [ParserKnight](https://github.com/ParserKnight)
